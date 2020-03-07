@@ -11,7 +11,7 @@ From the GUI users can select a pseudocolor and/or a 3d plot to represent the da
 
 ![Pseudocolor plot](Pix/pseudocolorplot.PNG)
 
-![3D plot](Pix/3dplot.PNG)
+![3D plot](Pix/3d_plot.PNG)
 
 The user can select an arbitrary number of channels to display. Below is the first 8 channels from a 22 channel EEG dataset.
 ![8chan](Pix/8channel.PNG)
