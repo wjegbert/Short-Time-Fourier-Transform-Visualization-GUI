@@ -3,7 +3,7 @@ A simple tool for visualizing the short-time Fourier transform using Python.
 ## Example Usage
 The user selects a directory containing CSV files for analysis. All the CSV files found in the directory are displayed in a listbox. The user can then select the file or files they wish to analyze.
 
-! [GUI example] (Pix/GUI.png)
+![GUI example](Pix/GUI.png)
 
 CSV files should be organized such that rows correspond to channels and columns correspond to time. Currently other time-series data formats, like EDF and GDF, are not supported because ~~they are garbage~~, while these data formats are prevalently used in biosignal analysis, there is not wide-spread support for these data types. CSV allows any type of multichannel time-series to be visualized.
 
