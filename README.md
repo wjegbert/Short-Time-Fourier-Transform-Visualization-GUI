@@ -9,7 +9,7 @@ CSV files should be organized such that rows correspond to channels and columns 
 
 From the GUI users can select a pseudocolor and/or a 3d plot to represent the data. 
 
-![Pseudocolor plot](Pix/Pseudocolorplot.PNG)
+![Pseudocolor plot](Pix/pseudocolorplot.PNG)
 
 ![3D plot](Pix/3dplot.PNG)
 
