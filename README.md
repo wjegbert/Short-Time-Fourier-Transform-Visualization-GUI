@@ -5,7 +5,7 @@ The user selects a directory containing CSV files for analysis. All the CSV file
 
 ![GUI example](Pix/GUI.PNG)
 
-CSV files should be organized such that rows correspond to channels and columns correspond to time. Currently other time-series data formats, like EDF and GDF, are not supported because ~~they are garbage~~, while these data formats are prevalently used in biosignal analysis, there is not wide-spread support for these data types, and many are primarily used for specific use-cases. CSV, on the other hand, is easy to use and allows any type of multichannel time-series to be visualized.
+CSV files should be organized such that rows correspond to channels and columns correspond to time. Currently other time-series data formats, like EDF and GDF, are not supported because ~~they are garbage~~, while these data formats are prevalent in the field biosignal analysis, there is not wide-spread support for these data types, and many are primarily used for specific use-cases. CSV, on the other hand, is easy to use and allows any type of multichannel time-series to be visualized.
 
 From the GUI users can select a pseudocolor and/or a 3d plot to represent the data. 
 
