@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 21 13:13:52 2020
 
-@author: student
+@author: William Egbert
 """
 from scipy.signal import stft 
 import numpy as np
